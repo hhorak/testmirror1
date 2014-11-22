@@ -2,4 +2,4 @@ testmirror1
 ===========
 
 testing git mirroring
-and nice topic for el6
+and nice topic for el7
